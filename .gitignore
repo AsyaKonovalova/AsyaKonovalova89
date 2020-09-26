@@ -1,0 +1,10 @@
+
+*.uasset
+*.uasset
+*.uasset
+*.uasset
+*.uasset
+Content/Geometry/Meshes/1M_Cube.uasset
+Content/Geometry/Meshes/1M_Cube_Chamfer.uasset
+Content/Geometry/Meshes/CubeMaterial.uasset
+Content/Geometry/Meshes/TemplateFloor.uasset
